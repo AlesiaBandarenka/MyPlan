@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid rgb(174, 240, 215);
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    font-size: 50px;
+    color: purple;
+}
+input {
+    width: 300px;
+}
+div {
+    text-align: center;
+}
+ul {
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: 700;
+}
+li {
+    font-size: 20px;
+    color: dimgray;
+    font-weight: 400;
+    text-align: start;
+}
+.textDecor {
+    text-decoration: line-through;
+}
+
